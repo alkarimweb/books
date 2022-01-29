@@ -31,7 +31,7 @@
          "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_01.png",
          "book_name":"Sample Book PDF 01",
          "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_1.pdf",
-         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. ",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. ",
          "is_featured":false,
          "category":"Cat 01"
       },
@@ -40,7 +40,7 @@
          "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_02.png",
          "book_name":"Sample Book PDF 02",
          "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_2.pdf",
-         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is",
          "is_featured":true,
          "category":"Cat 01,Cat 02"
       },
@@ -49,7 +49,7 @@
          "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_03.png",
          "book_name":"Sample Book PDF 03",
          "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_3.pdf",
-         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry",
          "is_featured":false,
          "category":"Cat 01,Cat 02,Cat 04"
       },
