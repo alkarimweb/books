@@ -31,7 +31,7 @@
          "book_thumb":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/Books/book_thumb/product_01.png",
          "book_name":"Sample Book PDF 01",
          "book_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/Books/pdf%20sample/sample_pdf_1.pdf",
-         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy",
+         "book_description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy. ",
          "is_featured":false,
          "category":"Cat 01"
       },
